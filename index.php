@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Title</title>
-<meta name="description" content="" />
+<meta name="description" content="Foo" />
 <meta name="keywords" content="" /> 
 
 <link href="inc/css-screen.css" rel="stylesheet" type="text/css" media="screen" />
